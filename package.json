@@ -1,6 +1,6 @@
 {
   "name": "tessel-bme280",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "An environment sensor package designed for the Tessel 2",
   "main": "index.js",
   "directories": {

@@ -30,5 +30,8 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.0.1"
+  },
+  "dependencies": {
+    "tessel-mocks": "^1.1.1"
   }
 }

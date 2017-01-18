@@ -32,6 +32,7 @@
     "mocha": "^3.0.1"
   },
   "dependencies": {
-    "tessel-mocks": "^1.1.1"
+    "tessel-mocks": "^1.1.1",
+    "underscore": "^1.8.3"
   }
 }

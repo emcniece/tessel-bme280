@@ -4,6 +4,8 @@ The BME280 is an environment sensor chip that provides temperature, barometric, 
 
 This package adds simple interfacing with the Tessel 2.
 
+**Currently only supports I2C!**
+
 ###Resources:
 
 * [Datasheet](https://cdn-shop.adafruit.com/datasheets/BST-BME280_DS001-10.pdf)
